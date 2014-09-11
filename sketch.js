@@ -10,5 +10,4 @@ function setup(){
 	rect(20,20,100,100);
 	ellipse(320,240,100,50);
 
-
 }
